@@ -1,0 +1,275 @@
+itemGroup.tabGaia=盖亚魔典3
+
+item.Shard_0.name=铁碎片
+item.Shard_1.name=金碎片
+item.Shard_2.name=钻石碎片
+item.Shard_3.name=绿宝石碎片
+item.Shard_4.name=铜块
+item.Shard_5.name=银块
+item.FoodMeat.name=肉块
+item.FoodRottenHeart.name=腐烂的心脏
+item.FoodRoot.name=根
+item.FoodCoalfish.name=黑鳕鱼
+item.FoodNetherWart.name=干地狱疣
+item.FoodSmallAppleGold.name=金苹果派片
+item.FoodMandrake.name=曼德拉
+item.FoodWither.name=凋零大脑
+item.FoodPieMandrake.name=曼德拉派
+item.FoodPieMeat.name=鱼派
+item.FoodPieAppleGold.name=金苹果派
+item.MiscSoulFire.name=灵魂之火
+item.MiscSoulFiery.name=火焰碎片
+item.MiscGigaGear.name=千兆骑士的核心
+item.MiscFur.name=毛皮
+item.MiscExperience_0.name=经验球 (小)
+item.MiscExperience_1.name=经验球 (中)
+item.MiscExperience_2.name=经验球 (大)
+item.MiscBook.name=等级书
+item.MiscQuill.name=钻石鞘翅
+item.MiscRing_0.name=无效果的速度指环
+item.MiscRing_1.name=无效果的急迫指环
+item.MiscRing_2.name=无效果的跳跃指环
+item.MiscRing_3.name=无效果的夜视指环
+item.MiscFurnaceFuel.name=煤砖
+item.MiscCurrency_0.name=贩卖
+item.MiscCurrency_1.name=盖亚金币
+item.MiscCurrency_2.name=盖亚金币堆
+item.MiscCurrency_3.name=盖亚银币
+item.Spawn.name=扭蛋盒
+item.SpawnCreeperGirl.name=爬行者女孩扭蛋
+item.SpawnSlimeGirl.name=史莱姆女孩扭蛋
+item.SpawnEnderGirl.name=末影女孩扭蛋
+item.SpawnTrader.name=商人扭蛋
+item.SpawnHolstaurus.name=荷斯陶诺斯扭蛋
+item.SpawnWeresheep.name=威尔羊扭蛋
+item.SpawnTame.name=盒装午餐
+item.BoxIron.name=铁盒子
+item.BoxGold.name=金盒子
+item.BoxDiamond.name=钻石盒子
+item.Box_0.name=矿石盒
+item.Box_1.name=下界盒
+item.Box_2.name=末地盒
+item.BagOre.name=矿石包
+item.BagBook.name=书包
+item.BagRecord.name=唱片盒
+item.BagArrow.name=密封的箭袋
+item.BoxOld.name=旧盒子
+item.Chest_0.name=地牢箱子
+item.Chest_1.name=丛林箱子
+item.Chest_2.name=沙漠箱子
+item.WeaponProp_0.name=末影权杖
+item.WeaponProp_1.name=烈焰权杖
+item.WeaponProp_2.name=仪式长矛
+item.WeaponProp_3.name=仪式匕首
+item.WeaponProp_4.name=仪式扇
+item.WeaponProp_5.name=大型金属战斧
+item.WeaponPropProjectile_0.name=魔术弹
+item.WeaponPropEnchanted_0.name=魔法轴承
+item.ShieldProp_0.name=铁盾
+item.ShieldProp_1.name=金盾
+item.WeaponFanIce.name=华丽的寒冰扇
+item.WeaponFanFire.name=华丽的烈焰扇
+item.WeaponBook.name=书本
+item.WeaponBookFreezing.name=霜冻之书
+item.WeaponBookNightmare.name=噩梦之书
+item.WeaponBookMetal.name=金属之书
+item.WeaponBookEnder.name=末影之书
+item.WeaponBookHunger.name=饥饿之书
+item.WeaponBookBattle.name=斗技之书
+item.WeaponBookNature.name=自然之书
+item.WeaponBookWither.name=凋零之书
+item.WeaponBookBuff.name=战斗手册
+item.WeaponBattleAxe.name=铁战斧
+item.WeaponDebug.name=调试武器
+item.AccessoryRingSpeed.name=速度指环
+item.AccessoryRingHaste.name=急迫指环
+item.AccessoryRingJump.name=跳跃指环
+item.AccessoryRingNight.name=夜视指环
+item.AccessoryTrinketPoison.name=蟾蜍石
+item.AccessoryTrinketWither.name=凋零心脏
+item.AccessoryTrinketLevitation.name=链球
+item.AccessoryCursed.name=倒霉马蹄铁
+item.AccessoryBauble_0.name=树妖头骨
+item.Card_0.name=树妖卡
+
+item.SpawnEgg.name=生成
+
+tile.GrimoireOfGaia.BustValkyrie.name=女武神雕像
+tile.GrimoireOfGaia.BustVampire.name=吸血鬼雕像
+tile.GrimoireOfGaia.BustSphinx.name=斯芬克斯雕像
+tile.GrimoireOfGaia.DollCreeperGirl.name=苦力怕女孩玩偶
+tile.GrimoireOfGaia.DollEnderGirl.name=末影女孩玩偶
+tile.GrimoireOfGaia.DollSlimeGirl.name=史莱姆女孩玩偶
+tile.GrimoireOfGaia.DollMaid.name=女仆玩偶
+tile.GrimoireOfGaia.SpawnGuard.name=护身符
+
+entity.GrimoireOfGaia.Ant.name=工兵蚁
+entity.GrimoireOfGaia.Anubis.name=阿努比斯
+entity.GrimoireOfGaia.Arachne.name=阿拉克尼
+entity.GrimoireOfGaia.Banshee.name=女妖
+entity.GrimoireOfGaia.Baphomet.name=巴风特
+entity.GrimoireOfGaia.BoneKnight.name=骷髅骑士
+entity.GrimoireOfGaia.Butler.name=管家
+entity.GrimoireOfGaia.Centaur.name=半人马
+entity.GrimoireOfGaia.CobbleGolem.name=小圆石魔像
+entity.GrimoireOfGaia.Cobblestone Golem.name=大圆石魔像
+entity.GrimoireOfGaia.Creep.name=蠕动
+entity.GrimoireOfGaia.Cyclops.name=独眼战士
+entity.GrimoireOfGaia.Chest.name=爬行球
+entity.GrimoireOfGaia.CyanFlower.name=青色的花
+entity.GrimoireOfGaia.Dhampir.name=半吸血鬼
+entity.GrimoireOfGaia.Dryad.name=树妖
+entity.GrimoireOfGaia.Dullahan.name=无头骑士
+entity.GrimoireOfGaia.Dwarf.name=侏儒
+entity.GrimoireOfGaia.EnderDragonGirl.name=末影龙女
+entity.GrimoireOfGaia.EnderEye.name=末影眼球
+entity.GrimoireOfGaia.FleshLich.name=僵尸巫妖
+entity.GrimoireOfGaia.FutakuchiOnna.name=二口女
+entity.GrimoireOfGaia.Gryphon.name=狮鹫
+entity.GrimoireOfGaia.Harpy.name=鹰身女妖
+entity.GrimoireOfGaia.Hunter.name=猎人
+entity.GrimoireOfGaia.Kobold.name=地精
+entity.GrimoireOfGaia.Mandragora.name=曼陀罗
+entity.GrimoireOfGaia.Matango.name=玛坦戈
+entity.GrimoireOfGaia.Mermaid.name=美人鱼
+entity.GrimoireOfGaia.Mimic.name=宝箱怪
+entity.GrimoireOfGaia.Minotaur.name=牛魔王
+entity.GrimoireOfGaia.Minotaurus.name=米诺陶诺斯
+entity.GrimoireOfGaia.Mummy.name=木乃伊
+entity.GrimoireOfGaia.Naga.name=娜迦
+entity.GrimoireOfGaia.NineTails.name=九尾狐精
+entity.GrimoireOfGaia.Sahuagin.name=半鱼人
+entity.GrimoireOfGaia.Satyress.name=半羊人
+entity.GrimoireOfGaia.Selkie.name=海豹人
+entity.GrimoireOfGaia.Shaman.name=萨满
+entity.GrimoireOfGaia.Sharko.name=鲨鱼战士
+entity.GrimoireOfGaia.Siren.name=海妖
+entity.GrimoireOfGaia.SludgeGirl.name=淤泥女孩
+entity.GrimoireOfGaia.Sphinx.name=斯芬克斯
+entity.GrimoireOfGaia.Spriggan.name=树精
+entity.GrimoireOfGaia.Succubus.name=魅魔
+entity.GrimoireOfGaia.Toad.name=蟾蜍
+entity.GrimoireOfGaia.Valkyrie.name=女武神
+entity.GrimoireOfGaia.Vampire.name=吸血鬼
+entity.GrimoireOfGaia.Werecat.name=猫妖
+entity.GrimoireOfGaia.Witch.name=魔女
+entity.GrimoireOfGaia.WitherCow.name=凋零牛
+entity.GrimoireOfGaia.Yeti.name=雪人
+entity.GrimoireOfGaia.Yuki-Onna.name=雪女
+
+entity.GrimoireOfGaia.CreeperGirl.name=苦力怕女孩
+entity.GrimoireOfGaia.EnderGirl.name=终界女孩
+entity.GrimoireOfGaia.Holstaurus.name=荷斯陶诺斯
+entity.GrimoireOfGaia.SlimeGirl.name=史莱姆女孩
+entity.GrimoireOfGaia.Trader.name=商人
+entity.GrimoireOfGaia.Weresheep.name=威尔羊
+
+entity.GrimoireOfGaia.Butler.name=花妖
+entity.GrimoireOfGaia.Sporeling.name=管家
+
+entity.GrimoireOfGaia.DebugMob.name=测试模式
+
+text.GrimoireOfGaia.grimoireofgaia.desc=效果只影响盖亚魔典的怪物
+text.GrimoireOfGaia.NegativeStatus.desc=移除负面状态效果
+text.GrimoireOfGaia.HeartsGain=恢复 %d 格生命值
+text.GrimoireOfGaia.HungerLose=失去 %d 格饱食度
+text.GrimoireOfGaia.GainExperience=获得效果
+text.GrimoireOfGaia.GainLevels=得到 %d 级经验
+text.GrimoireOfGaia.RightClickUse=右键使用
+text.GrimoireOfGaia.RightClickEquip=右键装备
+text.GrimoireOfGaia.FuelForSeconds=作为燃料燃烧 %d 秒
+text.GrimoireOfGaia.BlessMainhand=当在主手时:
+text.GrimoireOfGaia.BlessOffhand=在副手时:
+text.GrimoireOfGaia.InventoryCurse=When in inventory:
+text.GrimoireOfGaia.InventoryAccessory=When in the 1st and 2nd slots of the hotbar:
+text.GrimoireOfGaia.InventoryTrinket=When in the last slot of the hotbar:
+text.GrimoireOfGaia.InventoryImmunity=Immunity to
+
+text.GrimoireOfGaia.Accessory.tag=附件
+text.GrimoireOfGaia.Trinket.tag=饰品
+text.GrimoireOfGaia.Prop.tag=道具物品
+text.GrimoireOfGaia.WIP.tag=WIP
+text.GrimoireOfGaia.Debug=调试
+
+text.GrimoireOfGaia.HoldShift=<按住 Shift 键>
+
+item.GrimoireOfGaia.FoodExperienceIron.desc=获得一个级别
+item.GrimoireOfGaia.MiscSoulFire.desc=右键点击以产生火
+item.GrimoireOfGaia.MiscSoulFiery.desc=右键点击以产生熔岩
+item.GrimoireOfGaia.MiscGigaGear.desc=所有剩下的Giga骑士
+item.GrimoireOfGaia.MiscCurrency.desc=出售物品的这个槽中
+item.GrimoireOfGaia.MiscWeaponEnchanted.desc=制作时附魔
+item.GrimoireOfGaia.SpawnCreeperGirl.desc=产生一个苦力怕女孩
+item.GrimoireOfGaia.SpawnSlimeGirl.desc=产生一个史莱姆女孩
+item.GrimoireOfGaia.SpawnEnderGirl.desc=产生一个终界女孩
+item.GrimoireOfGaia.SpawnTrader.desc=产生一个商人
+item.GrimoireOfGaia.SpawnHolstaurus.desc=产生一个荷斯陶诺斯
+item.GrimoireOfGaia.SpawnWeresheep.desc=产生一个威尔羊
+item.GrimoireOfGaia.SpawnTame.desc=消除最初的敌意
+item.GrimoireOfGaia.SpawnTame2.desc=不影响受伤的生物
+item.GrimoireOfGaia.WeaponPropInvisible.desc=这是一个谜
+item.GrimoireOfGaia.WeaponBookEnder.desc=右键单击以启动终界珍珠
+item.GrimoireOfGaia.WeaponDebug.desc=测试用
+
+block.GrimoireOfGaia.SpawnGuard.desc=阻止日间怪物生成在 %d 格内
+
+configgui.GrimoireOfGaia.category.general=生成率
+configgui.GrimoireOfGaia.category.general.tooltip=\n设置为0以禁止怪物生成\nDay: (<30 罕见, >60 常见)\nNight: (<60 罕见, >100 常见)
+configgui.GrimoireOfGaia.category.damage=基础伤害
+configgui.GrimoireOfGaia.category.damage.tooltip=(需要重新启动)\n所有的怪物造成无视护甲的额外魔法伤害。
+configgui.GrimoireOfGaia.category.defense=基本伤害上限
+configgui.GrimoireOfGaia.category.defense.tooltip=(需要重新启动)\n在他们被杀死前，怪物受到的最大伤害。
+configgui.GrimoireOfGaia.category.attributes=属性
+configgui.GrimoireOfGaia.category.attributes.tooltip=(需要重新启动)\n属性以百分比为基础。\n（警告：不要低于50）
+configgui.GrimoireOfGaia.category.options=设置
+configgui.GrimoireOfGaia.category.options.tooltip=\n启用/禁用功能。
+configgui.GrimoireOfGaia.category.debug=调试
+configgui.GrimoireOfGaia.category.debug.tooltip=\n兼容和调试选项。
+
+configgui.GrimoireOfGaia.category.general.SpawnLevel3=禁用3级怪物的自然生成
+configgui.GrimoireOfGaia.category.general.SpawnLevel3.tooltip=\n3级怪物不会自然生成,但会从其他特定的怪物中生成
+configgui.GrimoireOfGaia.category.general.SpawnLevel3Chance=3级怪物生成机率
+configgui.GrimoireOfGaia.category.general.SpawnLevel3Chance.tooltip=\n3级怪物其他特定怪物中生成的机率.\n((1/value)*100)
+
+configgui.GrimoireOfGaia.category.damage.Menu0.BaseDamage=基础伤害
+configgui.GrimoireOfGaia.category.damage.Menu0.BaseDamage.tooltip=\n近战攻击额外增加2.0（1个心）的伤害。
+configgui.GrimoireOfGaia.category.damage.Menu1.BaseDamageArchers=基础伤害 (弓箭手)
+configgui.GrimoireOfGaia.category.damage.Menu1.BaseDamageArchers.tooltip=\n弓箭手额外增加1.0（0.5个心）的伤害。
+configgui.GrimoireOfGaia.category.damage.Menu2.ShieldsBlockPiercing=穿透盾牌伤害
+configgui.GrimoireOfGaia.category.damage.Menu2.ShieldsBlockPiercing.tooltip=\n基础伤害（近战）不会穿透盾牌。
+
+configgui.GrimoireOfGaia.category.defense.Tier1baseDefense=一级怪物伤害上限
+configgui.GrimoireOfGaia.category.defense.Tier1baseDefense.tooltip=\nMaximum amount of hits required.\n(0 = 禁用)
+configgui.GrimoireOfGaia.category.defense.Tier2baseDefense=二级怪物伤害上限
+configgui.GrimoireOfGaia.category.defense.Tier2baseDefense.tooltip=\nMaximum amount of hits required.\n(0 = 禁用)
+configgui.GrimoireOfGaia.category.defense.Tier3baseDefense=三级怪物伤害上限
+configgui.GrimoireOfGaia.category.defense.Tier3baseDefense.tooltip=\nMaximum amount of hits required.\n(0 = 禁用)
+
+configgui.GrimoireOfGaia.category.attributes.Tier1maxHealth=一级怪物生命
+configgui.GrimoireOfGaia.category.attributes.Tier1maxHealth.tooltip=\n生命: 40 (20 心)\n(50 = 一半, 200 = 两倍)
+configgui.GrimoireOfGaia.category.attributes.Tier1attackDamage=一级怪物伤害
+configgui.GrimoireOfGaia.category.attributes.Tier1attackDamage.tooltip=\n伤害: 4 (2 心)\n(50 = 一半, 200 = 两倍)
+configgui.GrimoireOfGaia.category.attributes.Tier2maxHealth=二级怪物生命
+configgui.GrimoireOfGaia.category.attributes.Tier2maxHealth.tooltip=\nHealth: 80 (40 心)\n(50 = 一半, 200 = 两倍)
+configgui.GrimoireOfGaia.category.attributes.Tier2attackDamage=二级怪物伤害
+configgui.GrimoireOfGaia.category.attributes.Tier2attackDamage.tooltip=\n伤害: 6 (3 心)\n(50 = 一半, 200 = 两倍)
+configgui.GrimoireOfGaia.category.attributes.Tier3maxHealth=三级怪物生命
+configgui.GrimoireOfGaia.category.attributes.Tier3maxHealth.tooltip=\n生命: 160 (80 心)\n(50 = 一半, 200 = 两倍)
+configgui.GrimoireOfGaia.category.attributes.Tier3attackDamage=三级怪物伤害
+configgui.GrimoireOfGaia.category.attributes.Tier3attackDamage.tooltip=\n伤害: 8 (4 心)\n(50 = 一半, 200 = 两倍)
+
+configgui.GrimoireOfGaia.category.options.Menu0.Enable_Spawn=启用生成
+configgui.GrimoireOfGaia.category.options.Menu0.Enable_Spawn.tooltip=(需要重启)\n启动盖亚魔典怪物生成
+configgui.GrimoireOfGaia.category.options.Menu1.AdditionalOre=额外矿物
+configgui.GrimoireOfGaia.category.options.Menu1.AdditionalOre.tooltip=\n盖亚怪物现在可以掉落碎片/金块
+configgui.GrimoireOfGaia.category.options.Menu2.StrafingArchers=弓箭手扫射
+configgui.GrimoireOfGaia.category.options.Menu2.StrafingArchers.tooltip=\n弓箭手会避开攻击（如骷髅）
+
+configgui.GrimoireOfGaia.category.debug.Menu1.Biome_Tweaks=调整生物群落
+configgui.GrimoireOfGaia.category.debug.Menu1.Biome_Tweaks.tooltip=(REQUIRES RESTART)\n调整一些“M”生物群系的默认字典\n（如果遇到问题，请禁用）
+configgui.GrimoireOfGaia.category.debug.Menu2.Ore_Unity=统一碎片掉落
+configgui.GrimoireOfGaia.category.debug.Menu2.Ore_Unity.tooltip=\n其他模组的怪物可以掉落碎片/金块\n（如果遇到问题，请禁用）
+configgui.GrimoireOfGaia.category.debug.Menu3.Debug_Spawn=调试生成
+configgui.GrimoireOfGaia.category.debug.Menu3.Debug_Spawn.tooltip=(REQUIRES RESTART)\n禁止所有非盖亚魔典的怪物生成
+configgui.GrimoireOfGaia.category.debug.Menu4.Debug_Commands=调试命令
+configgui.GrimoireOfGaia.category.debug.Menu4.Debug_Commands.tooltip=(REQUIRES RESTART)\n启用开发人员命令
